@@ -1,14 +1,11 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main - Entry point
+ * main - this is the main put function.
  *
- * Description: c program that print put function 
- *
- * return: always 0 (success)
-*/
-
-int main (void)
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzl");
-	return (0);
+puts("\"Programming is like building a multilingual puzzl");
+return (0);
 }
