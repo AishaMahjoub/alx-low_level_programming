@@ -1,1 +1,2 @@
-readme.md for arrays and pointer project
+###Readme forpointers array string
+pushed
