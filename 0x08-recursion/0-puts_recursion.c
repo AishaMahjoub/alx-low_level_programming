@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _puts_recursion: main function
- * @s: prameter
+ * @s: prameter function
  * Return: Always0
  */
 void _puts_recursion(char *s)
