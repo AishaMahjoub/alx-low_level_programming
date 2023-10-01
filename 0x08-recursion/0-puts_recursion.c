@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts_recursion: main function
+ * _puts_recursion - main function
  * @s: prameter function
  * Return: Always0
  */
